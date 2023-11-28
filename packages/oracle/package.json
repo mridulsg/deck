@@ -19,7 +19,7 @@
     "angular": "1.6.10",
     "angular-ui-bootstrap": "2.5.0",
     "lodash": "4.17.21",
-    "ngimport": "0.6.1"
+    "ngimport": "0.8.0"
   },
   "devDependencies": {
     "@spinnaker/eslint-plugin": "^3.0.1",
