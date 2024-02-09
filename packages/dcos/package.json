@@ -18,7 +18,7 @@
     "@spinnaker/docker": "^0.0.137",
     "angular": "1.6.10",
     "lodash": "4.17.21",
-    "ngimport": "0.6.1",
+    "ngimport": "0.8.0",
     "rxjs": "6.6.7"
   },
   "devDependencies": {
