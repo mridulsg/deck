@@ -21,7 +21,7 @@
     "angular": "1.6.10",
     "angular-ui-bootstrap": "2.5.0",
     "angular2react": "3.0.2",
-    "bootstrap": "3.4.1",
+    "bootstrap": "5.0.0",
     "chart.js": "3.0.0-rc.6",
     "chartjs-adapter-luxon": "1.0.0-beta.2",
     "classnames": "2.2.6",
