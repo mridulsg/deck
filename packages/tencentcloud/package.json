@@ -16,7 +16,7 @@
     "@spinnaker/core": "^0.23.0",
     "angular": "1.6.10",
     "lodash": "^4.17.19",
-    "ngimport": "^0.6.0",
+    "ngimport": "^0.8.0",
     "react": "~16.14.0"
   },
   "devDependencies": {
