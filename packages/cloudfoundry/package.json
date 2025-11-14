@@ -20,7 +20,7 @@
     "angular-ui-bootstrap": "2.5.0",
     "enzyme": "3.11.0",
     "formik": "1.5.1",
-    "js-yaml": "3.13.1",
+    "js-yaml": "4.1.1",
     "lodash": "4.17.21",
     "ngimport": "0.6.1",
     "react": "16.14.0",
