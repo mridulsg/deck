@@ -25,7 +25,7 @@
     "@spinnaker/kubernetes": "^0.4.0",
     "@spinnaker/oracle": "^0.0.81",
     "@spinnaker/styleguide": "^2.0.0",
-    "@spinnaker/titus": "^0.5.34",
+    "@spinnaker/titus": "^2026.0.0",
     "@uirouter/angularjs": "1.0.26",
     "angular": "1.8.0",
     "graphql": "15.5.0",
